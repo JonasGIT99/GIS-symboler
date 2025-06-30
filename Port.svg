@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+  <!-- Hvid baggrund -->
+  <rect x="0" y="0" width="400" height="200" fill="white"/>
+  
+  <!-- Rød ramme omkring hele SVG'en -->
+  <rect x="0" y="0" width="400" height="200" fill="none" stroke="red" stroke-width="4"/>
+  
+  <!-- Ramme/grundlag -->
+  <rect x="20" y="150" width="360" height="10" fill="#555" stroke="none"/>
+  
+  <!-- Stolper -->
+  <rect x="20" y="60" width="10" height="90" fill="#444" stroke="none"/>
+  <rect x="370" y="60" width="10" height="90" fill="#444" stroke="none"/>
+  
+  <!-- Port med vertikale sprosser -->
+  <rect x="50" y="60" width="300" height="90" fill="#3a3a3a" stroke="#444" stroke-width="1"/>
+  
+  <!-- Vertikale sprosser -->
+  <rect x="70" y="60" width="4" height="90" fill="#555" stroke="none"/>
+  <rect x="95" y="60" width="4" height="90" fill="#555" stroke="none"/>
+  <rect x="120" y="60" width="4" height="90" fill="#555" stroke="none"/>
+  <rect x="145" y="60" width="4" height="90" fill="#555" stroke="none"/>
+  <rect x="170" y="60" width="4" height="90" fill="#555" stroke="none"/>
+  <rect x="195" y="60" width="4" height="90" fill="#555" stroke="none"/>
+  <rect x="220" y="60" width="4" height="90" fill="#555" stroke="none"/>
+  <rect x="245" y="60" width="4" height="90" fill="#555" stroke="none"/>
+  <rect x="270" y="60" width="4" height="90" fill="#555" stroke="none"/>
+  <rect x="295" y="60" width="4" height="90" fill="#555" stroke="none"/>
+  <rect x="320" y="60" width="4" height="90" fill="#555" stroke="none"/>
+  
+  <!-- Hjul/ruller -->
+  <circle cx="60" cy="150" r="5" fill="#222"/>
+  <circle cx="340" cy="150" r="5" fill="#222"/>
+  
+  <!-- Skinne -->
+  <rect x="20" y="140" width="360" height="2" fill="#666" stroke="none"/>
+  
+  <!-- Kontrolboks -->
+  <rect x="340" y="85" width="15" height="25" fill="#777" stroke="#666" stroke-width="1"/>
+  
+  <!-- Kantramme -->
+  <rect x="50" y="60" width="300" height="5" fill="#444" stroke="none"/>
+  <rect x="50" y="145" width="300" height="5" fill="#444" stroke="none"/>
+  <rect x="50" y="60" width="5" height="90" fill="#444" stroke="none"/>
+  <rect x="345" y="60" width="5" height="90" fill="#444" stroke="none"/>
+</svg>
