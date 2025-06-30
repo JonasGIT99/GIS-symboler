@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Port ramme -->
+  <rect x="20" y="40" width="160" height="40" fill="none" stroke="#333" stroke-width="2"/>
+  
+  <!-- Skinne øverst -->
+  <rect x="20" y="40" width="160" height="5" fill="#555" stroke="none"/>
+  
+  <!-- Port (side til side) -->
+  <rect x="50" y="45" width="100" height="35" fill="#b0b0b0" stroke="#666" stroke-width="2"/>
+  
+  <!-- Greb -->
+  <rect x="140" y="55" width="5" height="15" fill="#444" stroke="none"/>
+  
+  <!-- Hjul/ruller -->
+  <circle cx="60" cy="42" r="3" fill="#333"/>
+  <circle cx="140" cy="42" r="3" fill="#333"/>
+  
+  <!-- Metaldetaljer -->
+  <line x1="70" y1="50" x2="70" y2="75" stroke="#888" stroke-width="1"/>
+  <line x1="90" y1="50" x2="90" y2="75" stroke="#888" stroke-width="1"/>
+  <line x1="110" y1="50" x2="110" y2="75" stroke="#888" stroke-width="1"/>
+  <line x1="130" y1="50" x2="130" y2="75" stroke="#888" stroke-width="1"/>
+</svg>
