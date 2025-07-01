@@ -1,0 +1,28 @@
+<svg
+  width="7.500937mm"
+  height="7.498292mm"
+  viewBox="0 0 7.500937 7.498292"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs></defs>
+  <g>
+    <!-- Hvid baggrund -->
+    <rect
+      x="0.246063"
+      y="0.243415"
+      width="7.0088124"
+      height="7.0088124"
+      style="fill:#ffffff;stroke-width:0.264583" />
+    
+    <!-- Orange ramme -->
+    <path
+      d="m 7.500937,7.498292 h -7.500937 v -7.498292 h 7.500937 z m -7.006166,-0.489479 h 6.516687 v -6.519333 h -6.516687 z"
+      style="fill:#ffaa00;stroke-width:0.264583" />
+    
+    <!-- MR tekst -->
+    <text
+      x="3.75"
+      y="4.2"
+      style="font-family:'Arial';font-size:1.8px;text-anchor:middle;fill:#000000;">MR</text>
+  </g>
+</svg>
